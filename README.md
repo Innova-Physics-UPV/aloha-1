@@ -1,6 +1,6 @@
-# PROJECT_NAME
+# aloha-1
 
-PROJECT_DESCRIPTION
+ALOHA-1, the accelerating cavities of ALOHA: design and cold tests.
 
 A project of [Innova Physics UPV](https://github.com/Innova-Physics-UPV), a student team of the Universitat Politècnica de València within Generación Espontánea. How the team works is in the [handbook](https://github.com/Innova-Physics-UPV/handbook).
 
